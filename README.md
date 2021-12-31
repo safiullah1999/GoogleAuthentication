@@ -39,11 +39,11 @@ Google Authentication in React login form using Firebase
 
 >## for NodeJS (Middleware)
 <code>cd NodeJs</code><br />
-<code>npm i</code><br />
+<code>npm start</code><br />
 
 >## for ReactJS (Frontend)
 <code>cd frontend_updated/app</code><br />
-<code>npm i</code><br />
+<code>npm start</code><br />
 
 ## Result
 
