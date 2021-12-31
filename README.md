@@ -3,41 +3,41 @@ Google Authentication in React login form using Firebase
 
 ## Install Dependencies
 >## for Python (Backend)
-><code>pip install -r requirements.txt</code>
+<code>pip install -r requirements.txt</code> <br />
 
 >## for NodeJS (Middleware)
-><code>cd NodeJs</code>
-><code>npm i</code>
+<code>cd NodeJs</code><br />
+<code>npm i</code><br />
 
 >## for ReactJS (Frontend)
-><code>cd frontend_updated/app</code>
-><code>npm i</code>
+<code>cd frontend_updated/app</code><br />
+<code>npm i</code><br />
 
 ## Update firebase.js
->const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "login-22486.firebaseapp.com",
-  projectId: "login-22486",
-  storageBucket: "login-22486.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID",
-  measurementId: "YOUR_MEASUREMENT_ID",
+<code>const firebaseConfig = {<br />
+  apiKey: "YOUR_API_KEY",<br />
+  authDomain: "login-22486.firebaseapp.com",<br />
+  projectId: "login-22486",<br />
+  storageBucket: "login-22486.appspot.com",<br />
+  messagingSenderId: "YOUR_SENDER_ID",<br />
+  appId: "YOUR_APP_ID",<br />
+  measurementId: "YOUR_MEASUREMENT_ID",<br />
 };
-
+</code><br />
 ## You are all set to run the script :+1:
 
 ## Run Application
 >## for Python (Backend)
-><code>cd django-token/tokendjangoSERVICE_NAME</code>
-><code>python manage.py runserver</code>
+<code>cd django-token/tokendjangoSERVICE_NAME</code><br />
+<code>python manage.py runserver</code><br />
 
 >## for NodeJS (Middleware)
-><code>cd NodeJs</code>
-><code>npm i</code>
+<code>cd NodeJs</code><br />
+<code>npm i</code><br />
 
 >## for ReactJS (Frontend)
-><code>cd frontend_updated/app</code>
-><code>npm i</code>
+<code>cd frontend_updated/app</code><br />
+<code>npm i</code><br />
 
 ## Result
 
