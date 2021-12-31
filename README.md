@@ -15,7 +15,8 @@ Google Authentication in React login form using Firebase
 
 >## for Database
 <code>install XAMPP</code><br />
-<code>Run mysql and Apache server in xampp controller</code><br /> 
+<code>Run mysql and Apache server in xampp controller</code><br />
+<br />
 ![Result](https://github.com/safiullah1999/ReactGoogleAuthentication/blob/main/frontend_updated/app/public/demo/xampp-controller.PNG?raw=true)
 
 ## Update firebase.js
