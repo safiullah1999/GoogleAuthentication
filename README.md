@@ -14,7 +14,7 @@ Google Authentication in React login form using Firebase
 <code>npm i</code><br />
 
 ## Update firebase.js
->const firebaseConfig = {<br />
+><pre>const firebaseConfig = {<br />
    &#9;apiKey: "YOUR_API_KEY",<br />
    &#9;authDomain: "login-22486.firebaseapp.com",<br />
    &#9;projectId: "login-22486",<br />
@@ -22,7 +22,7 @@ Google Authentication in React login form using Firebase
    &#9;messagingSenderId: "YOUR_SENDER_ID",<br />
    &#9;appId: "YOUR_APP_ID",<br />
    &#9;measurementId: "YOUR_MEASUREMENT_ID",<br />
->};<br />
+>};</pre><br />
 <br />
 ## You are all set to run the script :+1:
 
