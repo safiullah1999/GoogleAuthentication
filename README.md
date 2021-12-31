@@ -22,9 +22,9 @@ Google Authentication in React login form using Firebase
    &#9;messagingSenderId: "YOUR_SENDER_ID",<br />
    &#9;appId: "YOUR_APP_ID",<br />
    &#9;measurementId: "YOUR_MEASUREMENT_ID",<br />
-};</code></pre><br />
+};</code></pre>
 
-## You are all set to run the script :+1:
+## You are all set to run the Application :+1:
 
 ## Run Application
 >## for Python (Backend)
