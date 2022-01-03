@@ -3,7 +3,7 @@ Google Authentication in React login form using Firebase
 
 ## Live Demo
 
-## [Demo](https://clothing-store-safiullah.netlify.app/)
+## [Demo -> React Authentication](https://clothing-store-safiullah.netlify.app/)
 
 ## Install Dependencies
 >## for Python (Backend)
